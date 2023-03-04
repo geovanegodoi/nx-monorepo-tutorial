@@ -49,6 +49,8 @@ The more granular your libraries are, the more effective nx affected and Nx's co
 ### 2. Visualizing Architecture
 The nx graph command generates a graph of how apps and libraries depend on each other. If most of your code lives in a few giant libraries, this visualization doesn't provide much value.
 
+<img src="/nxgraph.png" alt="Example Nx Graph" width="350" height="250" title="Nx Graph">
+
 ### 3. Enforcing Constraints
 You can enforce constraints on how different types of libraries depend on each other using tags.
 
