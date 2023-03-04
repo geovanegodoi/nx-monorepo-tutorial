@@ -14,7 +14,10 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@nx-monorepo-tutorial/common-ui": ["libs/common-ui/src/index.ts"],
+      "@nx-monorepo-tutorial/products": ["libs/products/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
