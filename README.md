@@ -194,4 +194,4 @@ Embracing the monorepo-style development often requires some changes to the deve
 - [Library Types](https://nx.dev/more-concepts/library-types)
 - [Creating Libraries](https://nx.dev/more-concepts/creating-libraries)
 - [Grouping Libraries](https://nx.dev/more-concepts/grouping-libraries)
-- [Using Nx at Enterprises](https://nx.dev/packages/nx/documents/affected)
+- [Using Nx at Enterprises](https://nx.dev/more-concepts/monorepo-nx-enterprise)
